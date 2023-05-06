@@ -23,8 +23,8 @@ Please make sure you have the following software installed on your system before
 
 ## Installation
 ``` Bash
-git clone https://github.com/your-username/language-chain-functionality.git
-cd language-chain-functionality
+git clone https://github.com/sakulachi8/langchain.git
+cd langchain
 pip install -r requirements.txt
 ```
 
